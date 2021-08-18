@@ -1,14 +1,15 @@
 ## Sorting Algorithm Visualizer
-### A Python Application for Understanding Sorting Algorithms Made using the TkInter GUI framework
+### A Python Application for Understanding Sorting Algorithms 
+#### Made using the TkInter GUI framework
 
-#### DESCRIPTION
+##### DESCRIPTION
 The Sorting Algorithm Visualizer is a tool for understanding sorting algorithms.
 Currently, the application supports the bubble and insertion sorting algorithms.
 The application runs these algorithms on randomly generated lists of numbers and
 shows a step-by-step visualization for how each algorithm works.
 
 
-#### HOW-TO
+##### HOW-TO
 To use the application, run the *sorting_visualizer.py* script. Once open, you 
 have a few options to set before running the visualizer. First, the List Range
 allows you to set the maximum value for each randomly gererated integer in the
