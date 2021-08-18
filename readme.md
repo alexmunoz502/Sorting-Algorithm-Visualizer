@@ -1,6 +1,5 @@
-# Sorting Algorithm Visualizer
-## A Python Application for Understanding Sorting Algorithms
-### Made using the TkInter GUI framework
+## Sorting Algorithm Visualizer
+### A Python Application for Understanding Sorting Algorithms Made using the TkInter GUI framework
 
 #### DESCRIPTION
 The Sorting Algorithm Visualizer is a tool for understanding sorting algorithms.
